@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kaanbtgn
 - 👀 I’m interested in Cyber security. Also looking at AI and cryptography.
-- 🌱 I’m currently learning Linux, Python, C++.
 - 📫 You can reach me on LinkedIn
 
 <!---
