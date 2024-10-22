@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaanbtgn
-- 📫 You can reach me on LinkedIn
+- 📫 You can contact me on LinkedIn
 - <a href="https://www.linkedin.com/in/kaanbitgin/">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
