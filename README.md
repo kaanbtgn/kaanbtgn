@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @kaanbtgn
 
 ### 📫 Connect with Me
-You can reach me on [![LinkedIn](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kaanbitgin/)
+<h1> You can reach me on </h1>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaanbitgin/)
 
 ---
 
