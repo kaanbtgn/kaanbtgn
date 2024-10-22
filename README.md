@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaanbtgn
 - 📫 You can reach me on LinkedIn
-- ![linkedin](https://github.com/user-attachments/assets/708fc9dd-df89-4093-a65e-da97bc38b8d5)(https://linkedin.com/in/kaanbtgn)
+- ![linkedin](https://github.com/user-attachments/assets/708fc9dd-df89-4093-a65e-da97bc38b8d5?https://linkedin.com/in/kaanbtgn)
 - 🌘Github Stats
 
   
