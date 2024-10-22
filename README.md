@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kaanbtgn
 - 📫 You can reach me on LinkedIn
+- https://linkedin.com/in/kaanbtgn
   
 - 🌘Github Stats
 
