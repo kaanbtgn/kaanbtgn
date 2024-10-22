@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @kaanbtgn
 - 📫 You can reach me on LinkedIn
-- ![image]({https://github.com/user-attachments/assets/708fc9dd-df89-4093-a65e-da97bc38b8d5})
+- <a href="https://www.linkedin.com/in/kaanbtgn" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
 - 🌘Github Stats
 
   
