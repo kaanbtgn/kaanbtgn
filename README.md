@@ -62,6 +62,25 @@
 </div>
 
 ---
+## 🚀 Featured Projects
+
+[![Kaan.AI](https://github-readme-stats.vercel.app/api/pin/?username=kaanbtgn&repo=KaanAI&theme=tokyonight)](https://github.com/kaanbtgn/KaanAI)
+[![Social Media Platform](https://github-readme-stats.vercel.app/api/pin/?username=kaanbtgn&repo=RedditClone&theme=tokyonight)](https://github.com/kaanbtgn/RedditClone)
+[![Chest X-Ray Classification](https://github-readme-stats.vercel.app/api/pin/?username=kaanbtgn&repo=Chest-X-Ray-Binary-Classification&theme=tokyonight)](https://github.com/kaanbtgn/Chest-X-Ray-Binary-Classification)
+[![X-Ray Fracture Detection](https://github-readme-stats.vercel.app/api/pin/?username=kaanbtgn&repo=x_ray_fracture_detection&theme=tokyonight)](https://github.com/kaanbtgn/x_ray_fracture_detection)
+
+---
+
+### 📌 Project Descriptions
+
+- **Kaan.AI** – AI-powered chatbot using **ASP.NET Core**, **Semantic Kernel**, and **Azure OpenAI** with plugin-based architecture. Supports weather, stock market, PDF summarization, and more.  
+- **Social Media Platform** – Full-stack platform built with **React**, **Node.js**, **Supabase ORM**, and microservice architecture.  
+- **Chest X-Ray Binary Classification** – Medical AI model for detecting normal vs. pneumonia X-ray images using **Python** and **TensorFlow**.  
+- **X-Ray Fracture Detection** – Deep learning approach for detecting fractures in X-ray scans, built with **Python**, **OpenCV**, and **TensorFlow**.  
+- **Port Scanner & OS Detection Tool** – Security tool for scanning ports, detecting services, and identifying operating systems using **Python** and **Nmap**.  
+- **Medical Imaging Auto Report** – Generates automated radiology reports from medical images using **deep learning** and **NLP techniques**.
+
+---
 
 ### 🖋️ Daily Quote
 
