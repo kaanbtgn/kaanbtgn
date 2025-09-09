@@ -45,6 +45,8 @@
 
 #### **Tools & Others**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![RESTAPI](https://img.shields.io/badge/-Rest-F05032?style=flat-square&logo=git&logoColor=white)
+![SOAPAPI](https://img.shields.io/badge/-Soap-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Serilog](https://img.shields.io/badge/-Serilog-1C1E24?style=flat-square&logo=.net&logoColor=white)
